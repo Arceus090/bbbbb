@@ -1,0 +1,16 @@
+/* App.css or Main Style Sheet */
+.App {
+    margin: auto;
+  
+}
+
+.content {
+    flex: 1;
+    margin: 0;
+    width: 100%;
+    max-width: 1600px;
+    padding: 20px;
+    background-color: #e3e3e3;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
